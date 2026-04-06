@@ -8,8 +8,6 @@ Program masuk ke blok else ketika timeDelay > 100.
 - Semakin besar nilai delay → LED semakin lambat
 - Semakin kecil nilai delay → LED semakin cepat
 # 4. Jika program yang dibuat memiliki alur mati → lambat → cepat → reset (mati), ubah menjadi LED tidak langsung reset → tetapi berubah dari cepat → sedang → mati dan berikan penjelasan disetiap baris kode nya dalam bentuk README.md! 
-# Program Percabangan LED
-
 int ledPin = 6;
 → Menentukan pin LED pada Arduino
 
